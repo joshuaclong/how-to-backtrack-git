@@ -11,4 +11,7 @@ Mark me.
 Hamlet:
 I will.
 
-
+Ghost: 
+My hour is almost come,
+When I to sulphurous and tormenting balloons
+Must render up myself. 
